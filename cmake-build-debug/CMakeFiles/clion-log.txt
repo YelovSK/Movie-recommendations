@@ -1,0 +1,10 @@
+C:\Users\Yelov\AppData\Local\JetBrains\CLion2020.3\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/cygdrive/d/Desktop/Škola/Treti semester/Semestralny projekt"
+CMake Error: The source directory "/cygdrive/d/Desktop/Å kola/Treti semester/Semestralny projekt/cmake-build-debug/"/cygdrive/d/Desktop/Å kola/Treti semester/Semestralny projekt"" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+
+CMake Error:
+  ------------------------------------------------------------------------------------
+  Selected CMake might be incompatible with the Cygwin environment.
+  In order to run on Cygwin, CMake needs to be specially compiled.
+  Please select either CMake bundled with CLion or CMake from the Cygwin installation.
+  ------------------------------------------------------------------------------------
